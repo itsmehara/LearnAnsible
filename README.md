@@ -11,22 +11,22 @@ Here's a comprehensive list of topics you should cover to master Ansible, includ
    - Ansible architecture and components
    - Installation and setup
 
-### 2. **Ansible Configuration**
+### 2. **[Ansible Configuration](02.AnsibleConfiguration.md)**
    - Configuration files: ansible.cfg
    - Inventory files and dynamic inventory
    - Setting up host variables and group variables
 
-### 3. **Ad-Hoc Commands**
+### 3. **[Ad-Hoc Commands]()**
    - Running ad-hoc commands to manage remote servers
    - Commonly used ad-hoc commands
    - Using ad-hoc commands for system information and tasks
 
-### 4. **Ansible Modules**
+### 4. **[Ansible Modules]()**
    - Core modules and their usage
    - Using and customizing modules
    - Writing custom modules in Python
 
-### 5. **Ansible Playbooks**
+### 5. **[Ansible Playbooks]()**
    - Playbook structure and syntax
    - YAML basics for writing playbooks
    - Plays and tasks
@@ -38,31 +38,31 @@ Here's a comprehensive list of topics you should cover to master Ansible, includ
    - Debugging playbooks and using the `debug` module
    - Importing and including playbooks
 
-### 6. **Roles**
+### 6. **[Roles](06.Roles.md)**
    - Creating and using roles
    - Role directory structure
    - Role dependencies and requirements
    - Using Ansible Galaxy for role management
 
-### 7. **Advanced Ansible Playbook Techniques**
+### 7. **[Advanced Ansible Playbook Techniques]()**
    - Templates with Jinja2
    - Using Vault for encrypting sensitive data
    - Ansible Tower/AWX for managing playbooks and roles
    - Asynchronous actions and polling
    - Error handling and retries
 
-### 8. **Ansible for DevOps and CI/CD**
+### 8. **[Ansible for DevOps and CI/CD]()**
    - Integrating Ansible with Jenkins for CI/CD
    - Using Ansible for provisioning in cloud environments (AWS, Azure, GCP)
    - Ansible for container orchestration (Docker, Kubernetes)
    - Using Ansible with Vagrant for local development environments
 
-### 9. **Networking with Ansible**
+### 9. **[Networking with Ansible]()**
    - Managing network devices and services
    - Using network modules
    - Ansible for network automation and orchestration
 
-### 10. **Best Practices and Optimization**
+### 10. **[Best Practices and Optimization]()**
    - Writing efficient and reusable playbooks
    - Organizing and scaling Ansible projects
    - Version control with Ansible (using Git)
